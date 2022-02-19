@@ -7,12 +7,16 @@ Can be tested using two linux based terminal windows/tabs
 
 Client terminal commands:
 
-make TCP_clinet
+make 
+
+TCP_clinet
 
 ./TCP_client
 
 Server terminal commands:
 
-make TCP_server
+make 
+
+TCP_server
 
 ./TCP_server

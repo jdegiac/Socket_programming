@@ -9,7 +9,7 @@ Client terminal commands:
 
 make 
 
-TCP_clinet
+TCP_client
 
 ./TCP_client
 
